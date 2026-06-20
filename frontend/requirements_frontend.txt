@@ -1,0 +1,62 @@
+# ============================================
+# FRONTEND DEPENDENCIES - AI Portfolio
+# Project: Aasiyah Syed Portfolio
+# Date: May 2026
+# ============================================
+
+# ============================================
+# CORE FRAMEWORKS
+# ============================================
+react@^18.2.0
+react-dom@^18.2.0
+vite@^5.0.0
+@vitejs/plugin-react@^4.2.0
+
+# ============================================
+# STYLING & UI
+# ============================================
+tailwindcss@^3.4.0
+postcss@^8.4.0
+autoprefixer@^10.4.0
+clsx@^2.0.0
+tailwind-merge@^2.0.0
+
+# ============================================
+# ANIMATIONS & INTERACTIONS
+# ============================================
+framer-motion@^10.16.0
+lucide-react@^0.292.0
+react-scroll@^1.9.0
+
+# ============================================
+# BACKGROUND & VISUAL EFFECTS (NEW)
+# ============================================
+react-tsparticles@^2.12.0
+tsparticles@^3.4.0
+tsparticles-slim@^3.4.0
+
+# ============================================
+# USER EXPERIENCE (NEW)
+# ============================================
+react-hot-toast@^2.4.0
+react-hook-form@^7.48.0
+react-lazy-load-image-component@^1.6.0
+
+# ============================================
+# ANALYTICS & PERFORMANCE (NEW)
+# ============================================
+@vercel/analytics@^1.1.0
+
+# ============================================
+# DEVELOPMENT TOOLS
+# ============================================
+eslint@^8.56.0
+eslint-plugin-react@^7.33.0
+eslint-plugin-react-hooks@^4.6.0
+
+
+# Pehle delete node_modules (optional)
+# rm -rf node_modules package-lock.json
+
+# Phir install karo
+# npm install
